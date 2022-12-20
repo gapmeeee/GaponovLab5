@@ -9,7 +9,7 @@ import scraping_joy as sj # Модуль для парсинга.
 
 
 def main():
-    link = "https://joyreactor.cc/tag/%D0%BC%D0%B8%D0%BB%D0%BE%D1%82%D0%B0"
+    link = "https://wallpaperscraft.ru//tag/%D0%BC%D0%B8%D0%BB%D0%BE%D1%82%D0%B0"
 
     if os.path.exists("outputs") == True:
         pass
